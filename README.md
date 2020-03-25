@@ -14,6 +14,8 @@ The goal is to categorize all dataset links since on Github it is not possible t
 ## Normal
 [A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
 
+[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 ## ARDS
 [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset)
 
@@ -24,6 +26,8 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 [PadChest (requires authorization)](http://bimcv.cipf.es/bimcv-projects/padchest/)
 
+[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 ## SARS
 [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset)
 
@@ -31,7 +35,11 @@ The goal is to categorize all dataset links since on Github it is not possible t
 [A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
 
 ## Viral Pneumonia
+[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 ## Bacterial Pneumonia
+[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 ## MERS
 
 # Articles
