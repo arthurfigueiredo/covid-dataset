@@ -1,5 +1,7 @@
 # Chest X-ray and CT datasets.
 
+![Covid-19 Datasets](https://user-images.githubusercontent.com/3310314/77532546-f732cd80-6e8c-11ea-8206-6a2dd21b116e.jpg)
+
 The goal is to categorize all dataset links since on Github it is not possible to insert large datasets and some datasets don't allow you to disseminate them on other storage services.
 
 # Datasets
