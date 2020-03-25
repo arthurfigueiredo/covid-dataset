@@ -6,7 +6,9 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 ## Covid-19
 [COVID-19 image data collection](https://github.com/ieee8023/covid-chestxray-dataset)
+
 [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
+
 [BSTICovid19](https://bsticovid19.cimar.co.uk/worklist/)
 
 ## Normal
@@ -17,7 +19,9 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 ## Pneumonia
 [A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
+
 [NIH ChestXray](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+
 [PadChest (requires authorization)](http://bimcv.cipf.es/bimcv-projects/padchest/)
 
 ## SARS
