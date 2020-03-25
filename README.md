@@ -49,6 +49,8 @@ The goal is to categorize all dataset links since on Github it is not possible t
 ## COVID-19
 [Coronavirus Disease 2019 (COVID-19): A Systematic Review of Imaging Findings in 919 Patients](https://www.ajronline.org/doi/full/10.2214/AJR.20.23034)
 
+[2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings ](https://www.kjronline.org/search.php?where=aview&id=10.3348/kjr.2020.0112&code=0068KJR&vmode=FT)
+
 ## Feel free to contribute with more links.
 
 This repository is only a dataset indexer, we are not responsible for any form of data use, we recommend you read the terms and licenses of the dataset you are going to use.
