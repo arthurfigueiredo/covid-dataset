@@ -51,6 +51,9 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 [2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings ](https://www.kjronline.org/search.php?where=aview&id=10.3348/kjr.2020.0112&code=0068KJR&vmode=FT)
 
+## Others
+[CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)
+
 ## Feel free to contribute with more links.
 
 This repository is only a dataset indexer, we are not responsible for any form of data use, we recommend you read the terms and licenses of the dataset you are going to use.
