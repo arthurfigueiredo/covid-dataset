@@ -11,7 +11,7 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 [Società Italiana di Radiologia Medica e Interventistica](https://www.sirm.org/category/senza-categoria/covid-19/)
 
-[BSTICovid19](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/)
+[BSTICovid19](https://bit.ly/BSTICovid19_Teaching_Library)
 
 ## Normal
 [A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
