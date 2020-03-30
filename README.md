@@ -53,6 +53,8 @@ The goal is to categorize all dataset links since on Github it is not possible t
 
 [2019 Novel Coronavirus (COVID-19) Pneumonia: Serial Computed Tomography Findings ](https://www.kjronline.org/search.php?where=aview&id=10.3348/kjr.2020.0112&code=0068KJR&vmode=FT)
 
+[Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
+
 ## Others
 [CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)
 
